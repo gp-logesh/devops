@@ -1,0 +1,13 @@
+ Solid experience in the administration and performance tuning of application stacks (e.g.,Tomcat, JBoss, Apache, Ruby, NGINX)
+
+Solid Cloud experience, AWS (VPC, Storage Gateway, etc)
+
+Experience with virtualization and containerization (e.g., VMware, Virtual Box, Dockers)
+
+Experience with monitoring systems (nagios, jabbix)
+
+Experience with automation software (e.g., Puppet, cfengine, Chef)
+
+String scripting skills ( shell scripts, Perl, Ruby, Python)
+
+Strong networking knowledge (OSI network layers, TCP/IP) 
